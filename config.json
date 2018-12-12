@@ -1,0 +1,21 @@
+{
+	"engine_path": "D:\\Softwares\\UnityHub\\2018.2.17f1\\Editor\\Unity.exe",
+	"build_paths": [
+		"G:\\GameProjects\\Unity\\2018\\TG-FlyingBird",
+		"G:\\GameProjects\\Unity\\2018\\TG-TreasureBowl",
+		"G:\\GameProjects\\Unity\\2018\\TG-Evaluation",
+		"G:\\GameProjects\\Unity\\2018\\TG-Spaceship",
+		"G:\\GameProjects\\Unity\\2018\\TG-BallMaze",
+		"G:\\GameProjects\\Unity\\2018\\TG-Car-0",
+		"G:\\GameProjects\\Unity\\2018\\TG-BallBalance",
+		"G:\\GameProjects\\Unity\\2018\\TG-BeachBall",
+		"G:\\GameProjects\\Unity\\2018\\TG-ColorBalance",
+		"G:\\GameProjects\\Unity\\2018\\TG-TadpoleRunning",
+		"G:\\GameProjects\\Unity\\2018\\TG-FishCatching",
+		"G:\\GameProjects\\Unity\\2018\\TG-OT_CardShapeMatch",
+		"G:\\GameProjects\\Unity\\2018\\TG-OceanTreasure",
+		"G:\\GameProjects\\Unity\\2018\\TG-TreasureHunting"
+	],
+	"export_path": "C:\\Users\\PC\\Desktop\\Export",
+	"command_line_format": "{0} -batchmode -quit -projectPath {1} -executeMethod TGBuildGame.Build {2}"
+}
